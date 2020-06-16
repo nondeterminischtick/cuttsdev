@@ -1,0 +1,17 @@
+{
+  "title": "cutts &> /dev/null",
+  "url": "https:/cutts.dev/",
+  "domain": "cutts.dev",
+  "description": "My personal website.",
+  "feed": {
+    "subtitle": "My personal website.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https:/cutts.dev/feed/feed.xml",
+    "id": "https:/cutts.dev/"
+  },
+  "author": {
+    "name": "Richard Cutts",
+    "email": "inbox@cutts.dev"
+  }
+}
