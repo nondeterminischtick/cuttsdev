@@ -12,11 +12,7 @@
     "type": "git",
     "url": "git://github.com/11ty/eleventy-base-blog.git"
   },
-  "author": {
-    "name": "Max Böck",
-    "email": "hello@mxb.at",
-    "url": "https://mxb.at/"
-  },
+  "author": "Max Böck <hello@mxb.at> (https://mxb.at/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/maxboeck/eleventy-webmentions/issues"
@@ -33,5 +29,7 @@
     "markdown-it-anchor": "^5.0.2",
     "node-fetch": "^2.3.0",
     "sanitize-html": "^1.20.0"
-  }
+  },
+  "main": ".eleventy.js",
+  "keywords": []
 }
