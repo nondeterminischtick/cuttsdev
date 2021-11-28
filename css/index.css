@@ -200,7 +200,7 @@ small {
  }
 
 .timeline {
-  max-width: 32em; /* 600px /16 */
+  max-width: 30em; /* 600px /16 */
   margin: 7rem auto;
   text-align: left;
 
